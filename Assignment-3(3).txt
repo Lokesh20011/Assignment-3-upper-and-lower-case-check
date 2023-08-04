@@ -10,5 +10,5 @@ def string_check(s):
            pass
     print ("No. of Upper case characters :",d["UPPER_CASE"])
     print ("No. of Lower case Characters :",d["LOWER_CASE"])
-
-string_check('The quick Brow Fox')
+String=input("Enter String : ")
+string_check(String)
